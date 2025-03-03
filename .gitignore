@@ -1,0 +1,87 @@
+# Ignore CSV files
+*.csv
+
+# Ignore JSON files
+*.json
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore compiled files
+*.o
+*.so
+*.a
+*.out
+
+# Ignore model files
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.onnx
+
+# Ignore data files
+*.data
+*.dat
+
+# Ignore configuration files
+*.cfg
+*.conf
+
+# Ignore other binary files
+*.bin
+*.exe
+*.dll
+*.dylib
+*.lib
+*.pdb
+
+# Ignore archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
