@@ -6,13 +6,13 @@ import os
 from huggingface_hub import HfApi, HfFolder, Repository
 
 # Load your text model and tokenizer
-text_model_name = ""
+text_model_name = "bert-base-uncased"
 tokenizer = AutoTokenizer.from_pretrained(text_model_name)
 text_model = AutoModelForSequenceClassification.from_pretrained(text_model_name)
 
 # Load your image model
 image_model = models.resnet50(pretrained=True)
-image_model.fc = torch.nn.Linear(image_model.fc.in_features, 2)  # Assuming binary classification
+image_model.fc = torch.nn.Linear(image_model.fc.in_features, 2)  # Binary classification
 
 # Create a pipeline for text classification
 text_classifier = pipeline("text-classification", model=text_model, tokenizer=tokenizer)
