@@ -1,6 +1,9 @@
 # Ignore CSV files
 *.csv
 
+# Except this main CSV file
+!dataset_transformed.csv
+
 # Ignore JSON files
 *.json
 
