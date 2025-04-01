@@ -2,7 +2,10 @@
 *.csv
 
 # Except this main CSV file
-!dataset_transformed.csv
+!dataset_transformed.csvs
+!dataset_tokenized.csv
+!dataset.csv
+!clean_dataset.csv
 
 # Ignore JSON files
 *.json
@@ -56,6 +59,8 @@ Thumbs.db
 *.pt
 *.pth
 *.onnx
+# Except this final embedding file
+!embeddings_final.pt
 
 # Ignore data files
 *.data
