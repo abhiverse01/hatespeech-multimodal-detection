@@ -224,6 +224,49 @@ The DataLoader used is a runtime object that loads data from the dataset for mod
   - Converted to PyTorch tensors and saved as `.pt` files.
 - **Purpose**: Provides a reference to the preprocessed image tensor for the image-based model (i.e., ResNet-50).
 
+
+### **Phase 6: Embeddings Generation**  
+
+#### **6.1 Overview**  
+To improve multi-modal learning, we generate **text, image, and multimodal embeddings**. These embeddings represent the underlying semantic information in a numerical format, enabling deep learning models to detect patterns more effectively.  
+
+#### **6.2 Text Embeddings**  
+- **Model Used**: `BERT-based transformer`  
+- **Process**:
+  - Tokenized tweet texts are passed through a pre-trained BERT model.
+  - The `[CLS]` token representation is extracted as the **text embedding**.
+  - The resulting **vector size** is `768`.  
+- **Usage**:
+  - Captures contextual meaning of tweets.
+  - Used as input to the multi-modal classifier.  
+
+#### **6.3 Image Embeddings**  
+- **Model Used**: `ResNet-50 (pre-trained on ImageNet)`  
+- **Process**:
+  - Preprocessed images are fed into a ResNet-50 model.
+  - The **final layer before classification** is extracted as the **image embedding**.
+  - The resulting **vector size** is `2048`.  
+- **Usage**:
+  - Captures high-level visual features from images.
+  - Helps in detecting hate symbols or offensive visual elements.  
+
+#### **6.4 Multi-Modal Embeddings**  
+- **Fusion Method**: **Concatenation of Text + Image embeddings**  
+- **Final Embedding Shape**: `[768 + 2048 = 2816]`  
+- **Purpose**:
+  - Provides a **unified representation** of both text and images.
+  - Helps models **jointly learn** from both modalities.  
+
+#### **6.5 Storage and Diagnostics**  
+- The embeddings are saved in `embeddings_final.pt` for efficient retrieval.  
+- **Emergency Diagnostic Check**:
+  - Ensures no missing (`NaN`) or infinite values in embeddings.
+  - Checks **mean and standard deviation** to identify anomalies.  
+
+This embeddings-based approach strengthens the **multi-modal hate speech detection system**, improving its ability to understand complex relationships between text and images.
+
+
+
 ---
 
 # Dataset:
