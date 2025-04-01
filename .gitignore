@@ -18,6 +18,9 @@
 *.bmp
 *.tiff
 
+# Except image files
+!*.jpg
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
