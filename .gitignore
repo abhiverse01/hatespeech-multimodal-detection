@@ -10,6 +10,21 @@
 # Ignore JSON files
 *.json
 
+# Ignore Model weights files
+*.ckpt
+*.pth.tar  
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lzma
+*.tar.zst
+*.tar.lzo
+*.tar.lz4
+*.tar.lzop
+*.tar.lzma2
+*.tar.lz4f
+*.tar.lzop2
+
 # Ignore image files
 *.jpg
 *.jpeg
