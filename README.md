@@ -2,7 +2,6 @@
 
 ---
 [Deployment](assets/homescreen.png)
-
 ---
 
 

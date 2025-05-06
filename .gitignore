@@ -8,7 +8,7 @@
 !clean_dataset.csv
 
 # Except this readme image
-!homescreen.png
+!assets/homescreen.png
 
 # Ignore JSON files
 *.json
@@ -31,7 +31,6 @@
 # Ignore image files
 *.jpg
 *.jpeg
-*.png
 *.gif
 *.bmp
 *.tiff
