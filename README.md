@@ -7,7 +7,7 @@
 
 #### **Introduction**
 
-This phase of the project focuses on creating a **multi-modal dataset** for hate speech detection, combining **text** (tweets) and **images** (associated with the tweets). The goal is to prepare a clean, structured dataset that can be used to train a deep learning model capable of detecting hate speech in multi-modal content.  
+This project focuses on creating a **multi-modal dataset** for hate speech detection, combining **text** (tweets) and **images** (associated with the tweets). The goal is to prepare a clean, structured dataset that can be used to train a deep learning model capable of detecting hate speech in multi-modal content.  
 The dataset preparation involves these key phases:
 
 1. **Data Downloading and Image Loading**.
@@ -15,6 +15,8 @@ The dataset preparation involves these key phases:
 3. **Image Preprocessing**.
 4. **Multi-Modal Dataset Creation**.
 5. **DataLoader Preparation**.
+6. **Multi-Modal Embeddings Generation**.
+7. **Model Training on Generated Embeddings**.
 
 ---
 
