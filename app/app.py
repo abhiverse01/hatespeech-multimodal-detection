@@ -11,7 +11,7 @@ import numpy as np
 import os
 
 # ====== Configuration ======
-MODEL_PATH = "model_weights.pth"
+MODEL_PATH = "best_model_weights.pth"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 LABELS = ["Non-Hate", "Religion", "Racist", "Homophobic", "Sexist", "Abusive"]
 
