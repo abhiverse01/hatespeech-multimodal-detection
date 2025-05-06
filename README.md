@@ -1,7 +1,7 @@
 # Multi-Modal Hate Speech Detection using Deep Learning.
 
 ---
-[Deployment](assets/homescreen.png)
+![Deployment](assets/homescreen.png)
 ---
 
 
