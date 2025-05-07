@@ -1,0 +1,29 @@
+# Core ML libraries
+torch
+torchvision
+transformers
+sentencepiece  # required by some transformer models
+
+# Image processing
+Pillow
+opencv-python-headless  # use headless version to avoid GUI dependency issues
+
+# Text preprocessing
+nltk
+regex
+
+# Data handling
+pandas
+numpy
+scikit-learn
+
+# Visualization/UI
+streamlit
+matplotlib
+seaborn
+
+# For safe deployment
+python-dotenv  # if you are using environment variables
+
+# Optional (can be removed if unused)
+tqdm
