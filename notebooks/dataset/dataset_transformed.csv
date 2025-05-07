@@ -1,51 +1,151 @@
 tweet_text,image_path,labels,input_ids,attention_mask,transformed_image_path
-nigga,dataset/images/0.jpg,"[0, 1, 0, 1, 1, 0]",input_ids/0.pt,attention_masks/0.pt,dataset/transformed_images\0.pt
-my horses are retarded,dataset/images/1.jpg,"[0, 0, 0, 0, 0, 1]",input_ids/1.pt,attention_masks/1.pt,dataset/transformed_images\1.pt
-nigga on ma momma youngboy be spitting real shit nigga,dataset/images/2.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/2.pt,attention_masks/2.pt,dataset/transformed_images\2.pt
-rt xxsugvngxx i ran into this holy nigga today,dataset/images/3.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/3.pt,attention_masks/3.pt,dataset/transformed_images\3.pt
-everybody calling you nigger now,dataset/images/4.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/4.pt,attention_masks/4.pt,dataset/transformed_images\4.pt
-real ass bitch give a fuck boutta nigga,dataset/images/5.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/5.pt,attention_masks/5.pt,dataset/transformed_images\5.pt
-fuck ice white supremacist trash all of you are racist garbage,dataset/images/6.jpg,"[0, 1, 0, 0, 0, 1]",input_ids/6.pt,attention_masks/6.pt,dataset/transformed_images\6.pt
-days a cunt,dataset/images/7.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/7.pt,attention_masks/7.pt,dataset/transformed_images\7.pt
-sissy faggot,dataset/images/8.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/8.pt,attention_masks/8.pt,dataset/transformed_images\8.pt
-nigga what,dataset/images/9.jpg,"[1, 0, 0, 1, 1, 0]",input_ids/9.pt,attention_masks/9.pt,dataset/transformed_images\9.pt
-so you turn to twitter for it instead of beating that nigga ass or contacting the police about it,dataset/images/10.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/10.pt,attention_masks/10.pt,dataset/transformed_images\10.pt
-i swear i was waiting for her to mouth the word nigger,dataset/images/11.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/11.pt,attention_masks/11.pt,dataset/transformed_images\11.pt
-im behind you nigga u my thug brother,dataset/images/12.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/12.pt,attention_masks/12.pt,dataset/transformed_images\12.pt
-who dafuqq is this nigga,dataset/images/13.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/13.pt,attention_masks/13.pt,dataset/transformed_images\13.pt
-bf move your bighead gf nigga what thats why your daddy left you in 08,dataset/images/14.jpg,"[0, 1, 1, 0, 0, 0]",input_ids/14.pt,attention_masks/14.pt,dataset/transformed_images\14.pt
-this fat nigga slander is getting outta hand,dataset/images/15.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/15.pt,attention_masks/15.pt,dataset/transformed_images\15.pt
-ecofascist is just another nest for sjw,dataset/images/16.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/16.pt,attention_masks/16.pt,dataset/transformed_images\16.pt
-when a android nigga wanna talk about phone battery,dataset/images/17.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/17.pt,attention_masks/17.pt,dataset/transformed_images\17.pt
-check out this nigger,dataset/images/18.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/18.pt,attention_masks/18.pt,dataset/transformed_images\18.pt
-dat nigga my homie 3,dataset/images/19.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/19.pt,attention_masks/19.pt,dataset/transformed_images\19.pt
-imagine a nigga first time messaging you then says you off the team,dataset/images/20.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/20.pt,attention_masks/20.pt,dataset/transformed_images\20.pt
-phantom power music never surrender,dataset/images/21.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/21.pt,attention_masks/21.pt,dataset/transformed_images\21.pt
-nigga wya,dataset/images/22.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/22.pt,attention_masks/22.pt,dataset/transformed_images\22.pt
-carol really said fuck yall im a dyke and im here to save the universe,dataset/images/23.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/23.pt,attention_masks/23.pt,dataset/transformed_images\23.pt
-motivation from my favorite twat,dataset/images/24.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/24.pt,attention_masks/24.pt,dataset/transformed_images\24.pt
-mike was a twat cocky son of a b that always deleted his bad calls,dataset/images/25.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/25.pt,attention_masks/25.pt,dataset/transformed_images\25.pt
-and i said his 29 not 30 cos his 29 but this twat still said his nearer 30 eventhough his 29,dataset/images/26.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/26.pt,attention_masks/26.pt,dataset/transformed_images\26.pt
-ask a nigga to do it,dataset/images/27.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/27.pt,attention_masks/27.pt,dataset/transformed_images\27.pt
-pamilerin be like after seeing this me d muscular nigga,dataset/images/28.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/28.pt,attention_masks/28.pt,dataset/transformed_images\28.pt
-its definitely you nigga,dataset/images/29.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/29.pt,attention_masks/29.pt,dataset/transformed_images\29.pt
-lydia just called this man a cunt,dataset/images/30.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/30.pt,attention_masks/30.pt,dataset/transformed_images\30.pt
-and are the jack and ennis from brokeback faggot mountain yall,dataset/images/31.jpg,"[0, 1, 0, 1, 0, 0]",input_ids/31.pt,attention_masks/31.pt,dataset/transformed_images\31.pt
-remember ruri dwarves are stubborn so never surrender shields up iron breaker,dataset/images/32.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/32.pt,attention_masks/32.pt,dataset/transformed_images\32.pt
-im really about to fight my cousin when i see this nigga,dataset/images/33.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/33.pt,attention_masks/33.pt,dataset/transformed_images\33.pt
-i fucked up my response was too faggot like i need to act more masc,dataset/images/34.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/34.pt,attention_masks/34.pt,dataset/transformed_images\34.pt
-netflix we coming for you nigga,dataset/images/35.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/35.pt,attention_masks/35.pt,dataset/transformed_images\35.pt
-the ice cream truck nigga was like,dataset/images/36.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/36.pt,attention_masks/36.pt,dataset/transformed_images\36.pt
-fuck u england u little twat,dataset/images/37.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/37.pt,attention_masks/37.pt,dataset/transformed_images\37.pt
-she nachos its just your turn nigga dumb niggas,dataset/images/38.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/38.pt,attention_masks/38.pt,dataset/transformed_images\38.pt
-nigga got them,dataset/images/39.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/39.pt,attention_masks/39.pt,dataset/transformed_images\39.pt
-fare play little cunt wont be doing that again,dataset/images/40.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/40.pt,attention_masks/40.pt,dataset/transformed_images\40.pt
-look at this nigga son,dataset/images/41.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/41.pt,attention_masks/41.pt,dataset/transformed_images\41.pt
-when youve just had enough of that cocky twat,dataset/images/42.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/42.pt,attention_masks/42.pt,dataset/transformed_images\42.pt
-some nigga how are you today me,dataset/images/43.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/43.pt,attention_masks/43.pt,dataset/transformed_images\43.pt
-shooky a nigga now yall mightve did sumn here,dataset/images/44.jpg,"[1, 1, 0, 1, 0, 0]",input_ids/44.pt,attention_masks/44.pt,dataset/transformed_images\44.pt
-happy gday to my roun big 19 love ya 4life my nigga zhm tmg 228gfportmississippi,dataset/images/45.jpg,"[1, 1, 0, 1, 0, 0]",input_ids/45.pt,attention_masks/45.pt,dataset/transformed_images\45.pt
-this nigga is the portuguese fat frank,dataset/images/46.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/46.pt,attention_masks/46.pt,dataset/transformed_images\46.pt
-the blame is thanos my nigger bonucci to kean maybe i dunno im not the king of racists,dataset/images/47.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/47.pt,attention_masks/47.pt,dataset/transformed_images\47.pt
-stfu nigga god damn,dataset/images/48.jpg,"[0, 1, 1, 0, 0, 0]",input_ids/48.pt,attention_masks/48.pt,dataset/transformed_images\48.pt
-jeffery really said ill take a v card from a retard,dataset/images/49.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/49.pt,attention_masks/49.pt,dataset/transformed_images\49.pt
+nigga,dataset\images\0.jpg,"[0, 1, 0, 1, 1, 0]",input_ids/0.pt,attention_masks/0.pt,dataset/transformed_images\0.pt
+my horses are retarded,dataset\images\1.jpg,"[0, 0, 0, 0, 0, 1]",input_ids/1.pt,attention_masks/1.pt,dataset/transformed_images\1.pt
+nigga on ma momma youngboy be spitting real shit nigga,dataset\images\2.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/2.pt,attention_masks/2.pt,dataset/transformed_images\2.pt
+rt xxsugvngxx i ran into this holy nigga today,dataset\images\3.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/3.pt,attention_masks/3.pt,dataset/transformed_images\3.pt
+everybody calling you nigger now,dataset\images\4.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/4.pt,attention_masks/4.pt,dataset/transformed_images\4.pt
+real ass bitch give a fuck boutta nigga,dataset\images\5.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/5.pt,attention_masks/5.pt,dataset/transformed_images\5.pt
+fuck ice white supremacist trash all of you are racist garbage,dataset\images\6.jpg,"[0, 1, 0, 0, 0, 1]",input_ids/6.pt,attention_masks/6.pt,dataset/transformed_images\6.pt
+days a cunt,dataset\images\7.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/7.pt,attention_masks/7.pt,dataset/transformed_images\7.pt
+sissy faggot,dataset\images\8.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/8.pt,attention_masks/8.pt,dataset/transformed_images\8.pt
+nigga what,dataset\images\9.jpg,"[1, 0, 0, 1, 1, 0]",input_ids/9.pt,attention_masks/9.pt,dataset/transformed_images\9.pt
+so you turn to twitter for it instead of beating that nigga ass or contacting the police about it,dataset\images\10.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/10.pt,attention_masks/10.pt,dataset/transformed_images\10.pt
+i swear i was waiting for her to mouth the word nigger,dataset\images\11.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/11.pt,attention_masks/11.pt,dataset/transformed_images\11.pt
+im behind you nigga u my thug brother,dataset\images\12.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/12.pt,attention_masks/12.pt,dataset/transformed_images\12.pt
+who dafuqq is this nigga,dataset\images\13.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/13.pt,attention_masks/13.pt,dataset/transformed_images\13.pt
+bf move your bighead gf nigga what thats why your daddy left you in 08,dataset\images\14.jpg,"[0, 1, 1, 0, 0, 0]",input_ids/14.pt,attention_masks/14.pt,dataset/transformed_images\14.pt
+this fat nigga slander is getting outta hand,dataset\images\15.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/15.pt,attention_masks/15.pt,dataset/transformed_images\15.pt
+ecofascist is just another nest for sjw,dataset\images\16.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/16.pt,attention_masks/16.pt,dataset/transformed_images\16.pt
+when a android nigga wanna talk about phone battery,dataset\images\17.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/17.pt,attention_masks/17.pt,dataset/transformed_images\17.pt
+check out this nigger,dataset\images\18.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/18.pt,attention_masks/18.pt,dataset/transformed_images\18.pt
+dat nigga my homie 3,dataset\images\19.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/19.pt,attention_masks/19.pt,dataset/transformed_images\19.pt
+imagine a nigga first time messaging you then says you off the team,dataset\images\20.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/20.pt,attention_masks/20.pt,dataset/transformed_images\20.pt
+phantom power music never surrender,dataset\images\21.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/21.pt,attention_masks/21.pt,dataset/transformed_images\21.pt
+nigga wya,dataset\images\22.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/22.pt,attention_masks/22.pt,dataset/transformed_images\22.pt
+carol really said fuck yall im a dyke and im here to save the universe,dataset\images\23.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/23.pt,attention_masks/23.pt,dataset/transformed_images\23.pt
+motivation from my favorite twat,dataset\images\24.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/24.pt,attention_masks/24.pt,dataset/transformed_images\24.pt
+mike was a twat cocky son of a b that always deleted his bad calls,dataset\images\25.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/25.pt,attention_masks/25.pt,dataset/transformed_images\25.pt
+and i said his 29 not 30 cos his 29 but this twat still said his nearer 30 eventhough his 29,dataset\images\26.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/26.pt,attention_masks/26.pt,dataset/transformed_images\26.pt
+ask a nigga to do it,dataset\images\27.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/27.pt,attention_masks/27.pt,dataset/transformed_images\27.pt
+pamilerin be like after seeing this me d muscular nigga,dataset\images\28.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/28.pt,attention_masks/28.pt,dataset/transformed_images\28.pt
+its definitely you nigga,dataset\images\29.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/29.pt,attention_masks/29.pt,dataset/transformed_images\29.pt
+lydia just called this man a cunt,dataset\images\30.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/30.pt,attention_masks/30.pt,dataset/transformed_images\30.pt
+and are the jack and ennis from brokeback faggot mountain yall,dataset\images\31.jpg,"[0, 1, 0, 1, 0, 0]",input_ids/31.pt,attention_masks/31.pt,dataset/transformed_images\31.pt
+remember ruri dwarves are stubborn so never surrender shields up iron breaker,dataset\images\32.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/32.pt,attention_masks/32.pt,dataset/transformed_images\32.pt
+im really about to fight my cousin when i see this nigga,dataset\images\33.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/33.pt,attention_masks/33.pt,dataset/transformed_images\33.pt
+i fucked up my response was too faggot like i need to act more masc,dataset\images\34.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/34.pt,attention_masks/34.pt,dataset/transformed_images\34.pt
+netflix we coming for you nigga,dataset\images\35.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/35.pt,attention_masks/35.pt,dataset/transformed_images\35.pt
+the ice cream truck nigga was like,dataset\images\36.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/36.pt,attention_masks/36.pt,dataset/transformed_images\36.pt
+fuck u england u little twat,dataset\images\37.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/37.pt,attention_masks/37.pt,dataset/transformed_images\37.pt
+she nachos its just your turn nigga dumb niggas,dataset\images\38.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/38.pt,attention_masks/38.pt,dataset/transformed_images\38.pt
+nigga got them,dataset\images\39.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/39.pt,attention_masks/39.pt,dataset/transformed_images\39.pt
+fare play little cunt wont be doing that again,dataset\images\40.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/40.pt,attention_masks/40.pt,dataset/transformed_images\40.pt
+look at this nigga son,dataset\images\41.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/41.pt,attention_masks/41.pt,dataset/transformed_images\41.pt
+when youve just had enough of that cocky twat,dataset\images\42.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/42.pt,attention_masks/42.pt,dataset/transformed_images\42.pt
+some nigga how are you today me,dataset\images\43.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/43.pt,attention_masks/43.pt,dataset/transformed_images\43.pt
+shooky a nigga now yall mightve did sumn here,dataset\images\44.jpg,"[1, 1, 0, 1, 0, 0]",input_ids/44.pt,attention_masks/44.pt,dataset/transformed_images\44.pt
+happy gday to my roun big 19 love ya 4life my nigga zhm tmg 228gfportmississippi,dataset\images\45.jpg,"[1, 1, 0, 1, 0, 0]",input_ids/45.pt,attention_masks/45.pt,dataset/transformed_images\45.pt
+this nigga is the portuguese fat frank,dataset\images\46.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/46.pt,attention_masks/46.pt,dataset/transformed_images\46.pt
+the blame is thanos my nigger bonucci to kean maybe i dunno im not the king of racists,dataset\images\47.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/47.pt,attention_masks/47.pt,dataset/transformed_images\47.pt
+stfu nigga god damn,dataset\images\48.jpg,"[0, 1, 1, 0, 0, 0]",input_ids/48.pt,attention_masks/48.pt,dataset/transformed_images\48.pt
+jeffery really said ill take a v card from a retard,dataset\images\49.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/49.pt,attention_masks/49.pt,dataset/transformed_images\49.pt
+hes offside you spastic of a twat jenas worst pundit ever,dataset\images\50.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/50.pt,attention_masks/50.pt,dataset/transformed_images\50.pt
+nigga slapped the keyboard,dataset\images\51.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/51.pt,attention_masks/51.pt,dataset/transformed_images\51.pt
+peng somali nigga thread lemme start it off,dataset\images\52.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/52.pt,attention_masks/52.pt,dataset/transformed_images\52.pt
+i cant stop thinking about you i know nigga,dataset\images\53.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/53.pt,attention_masks/53.pt,dataset/transformed_images\53.pt
+me oh you off today lets go get a tattoo also me but savings nigga me amp me,dataset\images\54.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/54.pt,attention_masks/54.pt,dataset/transformed_images\54.pt
+cardi got a new nigga every season she in love with lhhatl,dataset\images\55.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/55.pt,attention_masks/55.pt,dataset/transformed_images\55.pt
+facts like beat it my nigga,dataset\images\56.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/56.pt,attention_masks/56.pt,dataset/transformed_images\56.pt
+bro you look like human sherk and kurt cobains retarded son,dataset\images\57.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/57.pt,attention_masks/57.pt,dataset/transformed_images\57.pt
+broke my monitor because im a fucking retard so now im stuck with this wonderful thing,dataset\images\58.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/58.pt,attention_masks/58.pt,dataset/transformed_images\58.pt
+ops ops ops thank youuu mah nigga i love you huhu lt,dataset\images\59.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/59.pt,attention_masks/59.pt,dataset/transformed_images\59.pt
+when you just cant help it but make a twat of yourself,dataset\images\60.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/60.pt,attention_masks/60.pt,dataset/transformed_images\60.pt
+people were murdered today you fat twat,dataset\images\61.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/61.pt,attention_masks/61.pt,dataset/transformed_images\61.pt
+when you aint worried about nigga or bitch,dataset\images\62.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/62.pt,attention_masks/62.pt,dataset/transformed_images\62.pt
+bumping if you love me like nigga,dataset\images\63.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/63.pt,attention_masks/63.pt,dataset/transformed_images\63.pt
+nigga was in the store like,dataset\images\64.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/64.pt,attention_masks/64.pt,dataset/transformed_images\64.pt
+this nigger,dataset\images\65.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/65.pt,attention_masks/65.pt,dataset/transformed_images\65.pt
+ohhhh you retarded retarded,dataset\images\66.jpg,"[0, 0, 0, 0, 0, 1]",input_ids/66.pt,attention_masks/66.pt,dataset/transformed_images\66.pt
+funniest nigga ive ever known happy g day to the realest dukedagod,dataset\images\67.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/67.pt,attention_masks/67.pt,dataset/transformed_images\67.pt
+big dyke energy right there,dataset\images\68.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/68.pt,attention_masks/68.pt,dataset/transformed_images\68.pt
+git a bottle eh bucky ar la intae ye ya brit cunt you know you want tae xx,dataset\images\69.jpg,"[1, 1, 0, 0, 0, 1]",input_ids/69.pt,attention_masks/69.pt,dataset/transformed_images\69.pt
+heatherheyer now stfu you twat,dataset\images\70.jpg,"[1, 0, 1, 0, 0, 1]",input_ids/70.pt,attention_masks/70.pt,dataset/transformed_images\70.pt
+sjws are some of the most illogical garbage and oversensitive people on this planet i hope they all die slow,dataset\images\71.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/71.pt,attention_masks/71.pt,dataset/transformed_images\71.pt
+a match made in nigger heaven,dataset\images\72.jpg,"[0, 1, 0, 0, 0, 0]",input_ids/72.pt,attention_masks/72.pt,dataset/transformed_images\72.pt
+thats a good nigger,dataset\images\73.jpg,"[0, 1, 0, 0, 0, 0]",input_ids/73.pt,attention_masks/73.pt,dataset/transformed_images\73.pt
+like nigga you know i know that you know that i know u bullshitting right,dataset\images\74.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/74.pt,attention_masks/74.pt,dataset/transformed_images\74.pt
+battlefield v arrivera finalement en retard,dataset\images\75.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/75.pt,attention_masks/75.pt,dataset/transformed_images\75.pt
+me cos theres no strange brooding women w dyke energy in vld,dataset\images\76.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/76.pt,attention_masks/76.pt,dataset/transformed_images\76.pt
+to the dude that called me a fat cunt before 9am yup,dataset\images\77.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/77.pt,attention_masks/77.pt,dataset/transformed_images\77.pt
+i am proud to serve the superior alphamale i am proud to be a faggot,dataset\images\78.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/78.pt,attention_masks/78.pt,dataset/transformed_images\78.pt
+wanna see a slimy twat,dataset\images\79.jpg,"[1, 0, 1, 0, 0, 1]",input_ids/79.pt,attention_masks/79.pt,dataset/transformed_images\79.pt
+no retreat no surrender stay the course his truth is marching on,dataset\images\80.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/80.pt,attention_masks/80.pt,dataset/transformed_images\80.pt
+i would body this nigga if i ever seen him,dataset\images\81.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/81.pt,attention_masks/81.pt,dataset/transformed_images\81.pt
+i looked down at my arm and im for real starting to look that nigga in the car meme,dataset\images\82.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/82.pt,attention_masks/82.pt,dataset/transformed_images\82.pt
+my nigga floyd bvuma how u made it to the datemyfamilly dude yerrr,dataset\images\83.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/83.pt,attention_masks/83.pt,dataset/transformed_images\83.pt
+bout time a nigga said it lmao,dataset\images\84.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/84.pt,attention_masks/84.pt,dataset/transformed_images\84.pt
+this nigga murda mook smoking a ecig from royce da 59 foot i want this nigga gone,dataset\images\85.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/85.pt,attention_masks/85.pt,dataset/transformed_images\85.pt
+not this nigga here lmaoo,dataset\images\86.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/86.pt,attention_masks/86.pt,dataset/transformed_images\86.pt
+lemonade yo nigga wanna drank,dataset\images\87.jpg,"[1, 1, 1, 0, 0, 0]",input_ids/87.pt,attention_masks/87.pt,dataset/transformed_images\87.pt
+look out for this cunt on the roads of newcastle today almost ran me off the road tucking tosser sekurawindows,dataset\images\88.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/88.pt,attention_masks/88.pt,dataset/transformed_images\88.pt
+on behalf of gooners everywhere my apologies for this twat,dataset\images\89.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/89.pt,attention_masks/89.pt,dataset/transformed_images\89.pt
+if ya ass a broke nigga hell nah i cant date youif ya ass a rich nigga imma fuck you till you aint one,dataset\images\90.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/90.pt,attention_masks/90.pt,dataset/transformed_images\90.pt
+dont be this retard,dataset\images\91.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/91.pt,attention_masks/91.pt,dataset/transformed_images\91.pt
+cunt president enjoy,dataset\images\92.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/92.pt,attention_masks/92.pt,dataset/transformed_images\92.pt
+thanks mr thaniel my nigga,dataset\images\93.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/93.pt,attention_masks/93.pt,dataset/transformed_images\93.pt
+free 69 startin to miss this nigga,dataset\images\94.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/94.pt,attention_masks/94.pt,dataset/transformed_images\94.pt
+what a twat,dataset\images\95.jpg,"[1, 1, 1, 0, 0, 0]",input_ids/95.pt,attention_masks/95.pt,dataset/transformed_images\95.pt
+nigga you good,dataset\images\96.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/96.pt,attention_masks/96.pt,dataset/transformed_images\96.pt
+right giantsstop scoringsome twat spends ages going through all those goals,dataset\images\97.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/97.pt,attention_masks/97.pt,dataset/transformed_images\97.pt
+nigga,dataset\images\98.jpg,"[1, 0, 0, 0, 1, 0]",input_ids/98.pt,attention_masks/98.pt,dataset/transformed_images\98.pt
+hook line and muthafucking sinker you almost gotta applaud this nigga hes still a coon though,dataset\images\99.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/99.pt,attention_masks/99.pt,dataset/transformed_images\99.pt
+something about a big nigga and beard gets me everytime,dataset\images\100.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/100.pt,attention_masks/100.pt,dataset/transformed_images\100.pt
+this nigga hitting flips and shit whole squad finna be like,dataset\images\101.jpg,"[0, 1, 0, 0, 0, 1]",input_ids/101.pt,attention_masks/101.pt,dataset/transformed_images\101.pt
+how this nigga gonna tell us to be drug free,dataset\images\102.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/102.pt,attention_masks/102.pt,dataset/transformed_images\102.pt
+another benefit of being a redneck you are not expected to think that hard,dataset\images\103.jpg,"[1, 1, 0, 0, 0, 1]",input_ids/103.pt,attention_masks/103.pt,dataset/transformed_images\103.pt
+no u faggot,dataset\images\104.jpg,"[0, 0, 0, 1, 0, 0]",input_ids/104.pt,attention_masks/104.pt,dataset/transformed_images\104.pt
+gm treating a real nigga to work,dataset\images\105.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/105.pt,attention_masks/105.pt,dataset/transformed_images\105.pt
+this nigga hit 10 threes in the first half and hes their third scoring option,dataset\images\106.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/106.pt,attention_masks/106.pt,dataset/transformed_images\106.pt
+faggot in chastity like it should be 247,dataset\images\107.jpg,"[0, 0, 0, 1, 0, 1]",input_ids/107.pt,attention_masks/107.pt,dataset/transformed_images\107.pt
+nobody is trying to replace you stop being a paranoid conspiracy theorist,dataset\images\108.jpg,"[1, 0, 1, 0, 0, 0]",input_ids/108.pt,attention_masks/108.pt,dataset/transformed_images\108.pt
+the comments on her tweet are so retarded its making me sad,dataset\images\109.jpg,"[0, 0, 0, 0, 0, 1]",input_ids/109.pt,attention_masks/109.pt,dataset/transformed_images\109.pt
+a nigga late but hes best dressed spi 2k19,dataset\images\110.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/110.pt,attention_masks/110.pt,dataset/transformed_images\110.pt
+proud of you mu nigga,dataset\images\111.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/111.pt,attention_masks/111.pt,dataset/transformed_images\111.pt
+nigga this shit hard had to add this to the playlist,dataset\images\112.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/112.pt,attention_masks/112.pt,dataset/transformed_images\112.pt
+this nigga though,dataset\images\113.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/113.pt,attention_masks/113.pt,dataset/transformed_images\113.pt
+jason van dykes partner testifies in murder trial,dataset\images\114.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/114.pt,attention_masks/114.pt,dataset/transformed_images\114.pt
+yes they can say dyke what u gonna do about it huh,dataset\images\115.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/115.pt,attention_masks/115.pt,dataset/transformed_images\115.pt
+yu can legit see the nigga smiling from the back of this nigga head thats how much he loves this shit,dataset\images\116.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/116.pt,attention_masks/116.pt,dataset/transformed_images\116.pt
+this lil nigga wanna snatch his chains so bad,dataset\images\117.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/117.pt,attention_masks/117.pt,dataset/transformed_images\117.pt
+stupid cunt dcfc nffc,dataset\images\118.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/118.pt,attention_masks/118.pt,dataset/transformed_images\118.pt
+the most backward twat ever,dataset\images\119.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/119.pt,attention_masks/119.pt,dataset/transformed_images\119.pt
+i cant wait for this nigga to drop,dataset\images\120.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/120.pt,attention_masks/120.pt,dataset/transformed_images\120.pt
+i used to fw this one guy ex and he said how my dick taste my nigga,dataset\images\121.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/121.pt,attention_masks/121.pt,dataset/transformed_images\121.pt
+no nigga no problem,dataset\images\122.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/122.pt,attention_masks/122.pt,dataset/transformed_images\122.pt
+this nigga is aggressive,dataset\images\123.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/123.pt,attention_masks/123.pt,dataset/transformed_images\123.pt
+surrender,dataset\images\124.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/124.pt,attention_masks/124.pt,dataset/transformed_images\124.pt
+ok retard,dataset\images\125.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/125.pt,attention_masks/125.pt,dataset/transformed_images\125.pt
+a young nigga still got a ways to go but pubertychallenge,dataset\images\126.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/126.pt,attention_masks/126.pt,dataset/transformed_images\126.pt
+julias asked if im taking my excersize bike to london da feck she trying to say daft bint,dataset\images\127.jpg,"[0, 0, 1, 0, 0, 1]",input_ids/127.pt,attention_masks/127.pt,dataset/transformed_images\127.pt
+pps for the saturday hambo18 race card are now posted playbigm harnessracing,dataset\images\128.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/128.pt,attention_masks/128.pt,dataset/transformed_images\128.pt
+satanists are retarded,dataset\images\129.jpg,"[0, 0, 0, 0, 1, 1]",input_ids/129.pt,attention_masks/129.pt,dataset/transformed_images\129.pt
+because i look like a quote stank ass cunt your eyes work yeah,dataset\images\130.jpg,"[1, 1, 1, 0, 0, 0]",input_ids/130.pt,attention_masks/130.pt,dataset/transformed_images\130.pt
+can these sjw just drag demi and no one else she doesnt do anything other than body shame and attack taylor,dataset\images\131.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/131.pt,attention_masks/131.pt,dataset/transformed_images\131.pt
+this nigga lmaodick,dataset\images\132.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/132.pt,attention_masks/132.pt,dataset/transformed_images\132.pt
+hes such a little twat,dataset\images\133.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/133.pt,attention_masks/133.pt,dataset/transformed_images\133.pt
+is there any way i can get rid of these retarded boxes on my twitter feed tired of seeing them,dataset\images\134.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/134.pt,attention_masks/134.pt,dataset/transformed_images\134.pt
+lil nigga better be standing like that lmao,dataset\images\135.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/135.pt,attention_masks/135.pt,dataset/transformed_images\135.pt
+nigga,dataset\images\136.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/136.pt,attention_masks/136.pt,dataset/transformed_images\136.pt
+nowplaying bob naga good nigger sticker circle radio,dataset\images\137.jpg,"[1, 1, 0, 0, 0, 0]",input_ids/137.pt,attention_masks/137.pt,dataset/transformed_images\137.pt
+any nigga in my situation would have been fold eso,dataset\images\138.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/138.pt,attention_masks/138.pt,dataset/transformed_images\138.pt
+instead of calling me a fucking wanker cunt after walking into me how about you try looking where youre going,dataset\images\139.jpg,"[1, 0, 1, 0, 0, 1]",input_ids/139.pt,attention_masks/139.pt,dataset/transformed_images\139.pt
+is a fucking retard,dataset\images\140.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/140.pt,attention_masks/140.pt,dataset/transformed_images\140.pt
+i love arse and cunt,dataset\images\141.jpg,"[1, 0, 1, 1, 0, 0]",input_ids/141.pt,attention_masks/141.pt,dataset/transformed_images\141.pt
+i shoot to kill nigger,dataset\images\142.jpg,"[0, 1, 0, 0, 0, 1]",input_ids/142.pt,attention_masks/142.pt,dataset/transformed_images\142.pt
+ill surgery you you cunt,dataset\images\143.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/143.pt,attention_masks/143.pt,dataset/transformed_images\143.pt
+now streaming julie andrews dick van dyke at,dataset\images\144.jpg,"[1, 0, 0, 1, 0, 0]",input_ids/144.pt,attention_masks/144.pt,dataset/transformed_images\144.pt
+this is truth maga kag benghazineverforget voteredtosaveamerica buildthewall,dataset\images\145.jpg,"[1, 0, 0, 0, 0, 1]",input_ids/145.pt,attention_masks/145.pt,dataset/transformed_images\145.pt
+this nigga said she look like she eats left amp right overs lmfaooooooo,dataset\images\146.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/146.pt,attention_masks/146.pt,dataset/transformed_images\146.pt
+nigga how tf you gonna kick them off stage you cant even get it,dataset\images\147.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/147.pt,attention_masks/147.pt,dataset/transformed_images\147.pt
+my nigga,dataset\images\148.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/148.pt,attention_masks/148.pt,dataset/transformed_images\148.pt
+picked up the coolest tequila miniatures from cdg airport duty free might make some redneck margaritas with them,dataset\images\149.jpg,"[1, 0, 0, 0, 0, 0]",input_ids/149.pt,attention_masks/149.pt,dataset/transformed_images\149.pt
